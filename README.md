@@ -7,7 +7,7 @@
 # 目录
 ## 编程语言
 - [C/C++](#jump_c_c++)
-- java
+- [java](#jump_java)
 - python
 - go
 - php
@@ -28,7 +28,7 @@
 - A：
 ---
 
-## java
+## <span id="jump_java">java</span>
 ## python
 ## go
 ## php
