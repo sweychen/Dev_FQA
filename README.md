@@ -19,10 +19,24 @@
 - nginx
 - redis
 
-# C/C++
+# 编程语言
+## C/C++
 - Q：如何获取随机数？
 - A：
 ---
 - Q：如何获取IP地址？
 - A：
 ---
+
+## java
+## python
+## go
+## php
+## html
+## css
+## js
+
+# 开源软件
+## mysql
+## nginx
+## redis
