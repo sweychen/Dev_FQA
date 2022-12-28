@@ -6,7 +6,7 @@
 
 # 目录
 ## 编程语言
-- C/C++
+- [C/C++](#jump_c_c++)
 - java
 - python
 - go
@@ -20,7 +20,7 @@
 - redis
 
 # 编程语言
-## C/C++
+## <span id="jump_c_c++">C/C++</span>
 - Q：如何获取随机数？
 - A：
 ---
